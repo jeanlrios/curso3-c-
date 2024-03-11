@@ -3,44 +3,22 @@
 // no console.
 using Alura.Filmes;
 
-Filme filme1 = new("O Senhor dos Aneis - A Sociedade do Anel")
+Filme filme1 = new("O Senhor dos Aneis - A Sociedade do Anel", 178, ["Sean Bean", "Elijah Wood", "Viggo Mortensen", "Ian McKellen"]);
+Filme filme2 = new("O Senhor dos Aneis - As Duas Torres", 218, ["Sean Bean", "Elijah Wood", "Viggo Mortensen", "Ian McKellen"]);
+Filme filme3 = new("O Senhor dos Aneis - O Retorno do Rei", 201, ["Sean Bean", "Elijah Wood", "Viggo Mortensen", "Ian McKellen"]);
+Filme filme4 = new("Interestelar", 169, ["Matthew McConaughey", "Jessica Chanstain", "Anne Hathaway"]);
+Filme filme5 = new("Forrest Gump", 142, ["Tom Hanks", "Robin Wright", "Gary Sinise"]);
+
+List<Filme> filmeLista = new();
+filmeLista.Add(filme1);
+filmeLista.Add(filme2);
+filmeLista.Add(filme3);
+filmeLista.Add(filme4);
+filmeLista.Add(filme5);
+
+foreach(Filme filme in filmeLista)
 {
-    Ano = 2001,
-    Duracao = 178
-};
-
-Filme filme2 = new("O Senhor dos Aneis - As Duas Torres")
-{
-    Ano = 2002,
-    Duracao = 218
-};
-
-Filme filme3 = new("O Senhor dos Aneis - O Retorno do Rei")
-{
-    Ano = 2003,
-    Duracao = 201
-};
-
-Filme filme4 = new("Interestelar")
-{
-    Ano = 2014,
-    Duracao = 169
-};
-Filme filme5 = new("Forrest Gump")
-{
-    Ano = 1994,
-    Duracao = 142
-};
-
-filme1.AdicionarFilmes(filme1);
-filme2.AdicionarFilmes(filme2);
-filme3.AdicionarFilmes(filme3);
-filme4.AdicionarFilmes(filme4);
-filme5.AdicionarFilmes(filme5);
-
-Console.WriteLine(filme1.Detalhes);
-Console.WriteLine(filme2.Detalhes);
-Console.WriteLine(filme3.Detalhes);
-Console.WriteLine(filme4.Detalhes);
-Console.WriteLine(filme5.Detalhes);
-
+    Console.WriteLine($"Filme: {filme.Titulo}\nDuração: {filme.Duracao}");
+    filme.ListarElenco();
+    Console.WriteLine();
+}

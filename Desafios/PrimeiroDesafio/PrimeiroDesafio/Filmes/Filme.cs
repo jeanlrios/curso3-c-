@@ -4,19 +4,39 @@
 namespace Alura.Filmes;
 class Filme
 {
-    private List<Filme> listaFilmes = new();
-    public Filme(string titulo)
+    private List<string> Elenco = new();
+    public Filme(string titulo, int duracao, List<string> elenco)
     {
         Titulo = titulo;
-    }
-    public string Titulo { get; }
-    public int Ano { get; set; }
-    public int Duracao { get; set; }
-    public Atores Ator { get; set; }
-    public string Detalhes => $"Filme: {Titulo}\nAno: {Ano}\nDuração: {Duracao} minutos\n";
-    public void AdicionarFilmes(Filme filme)
-    {
-        listaFilmes.Add(filme);
+        Duracao = duracao;
+        if(elenco == null ) { 
+            Elenco = new();
+        } else
+        {
+            Elenco = elenco;
+        }
     }
 
+    public string Titulo { get; }
+    public int Duracao { get; }
+    public string Detalhes => $"Filme: {Titulo}\nDuração: {Duracao} minutos\nElenco: {string.Join(", ", Elenco)}\n";
+
+    public void AdicionarElenco(string ator) { 
+        Elenco.Add(ator);
+        Console.WriteLine($"{ator} adicionado/a no elenco");
+    }
+    public void ListarElenco()
+    {
+        if( Elenco.Count == 0 )
+        {
+            Console.WriteLine("Elenco vazio");
+        } else
+        {
+            Console.WriteLine("Elenco:");
+            foreach(var ator in Elenco)
+            {
+                Console.WriteLine(ator);
+            }
+        }
+    }
 }
