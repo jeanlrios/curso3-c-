@@ -1,5 +1,4 @@
-﻿
-namespace ScreenSound.Modelos;
+﻿namespace ScreenSound.Modelos;
 internal class Avaliacao
 {
     public Avaliacao(int nota)
