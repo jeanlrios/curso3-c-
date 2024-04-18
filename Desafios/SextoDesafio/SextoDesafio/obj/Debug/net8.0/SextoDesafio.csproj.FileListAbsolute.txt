@@ -1,0 +1,14 @@
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\SextoDesafio\SextoDesafio\bin\Debug\net8.0\SextoDesafio.exe
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\SextoDesafio\SextoDesafio\bin\Debug\net8.0\SextoDesafio.deps.json
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\SextoDesafio\SextoDesafio\bin\Debug\net8.0\SextoDesafio.runtimeconfig.json
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\SextoDesafio\SextoDesafio\bin\Debug\net8.0\SextoDesafio.dll
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\SextoDesafio\SextoDesafio\bin\Debug\net8.0\SextoDesafio.pdb
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\SextoDesafio\SextoDesafio\obj\Debug\net8.0\SextoDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\SextoDesafio\SextoDesafio\obj\Debug\net8.0\SextoDesafio.AssemblyInfoInputs.cache
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\SextoDesafio\SextoDesafio\obj\Debug\net8.0\SextoDesafio.AssemblyInfo.cs
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\SextoDesafio\SextoDesafio\obj\Debug\net8.0\SextoDesafio.csproj.CoreCompileInputs.cache
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\SextoDesafio\SextoDesafio\obj\Debug\net8.0\SextoDesafio.dll
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\SextoDesafio\SextoDesafio\obj\Debug\net8.0\refint\SextoDesafio.dll
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\SextoDesafio\SextoDesafio\obj\Debug\net8.0\SextoDesafio.pdb
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\SextoDesafio\SextoDesafio\obj\Debug\net8.0\SextoDesafio.genruntimeconfig.cache
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\SextoDesafio\SextoDesafio\obj\Debug\net8.0\ref\SextoDesafio.dll
