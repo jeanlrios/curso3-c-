@@ -1,0 +1,14 @@
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\SetimoDesafio\SetimoDesafio\bin\Debug\net8.0\SetimoDesafio.exe
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\SetimoDesafio\SetimoDesafio\bin\Debug\net8.0\SetimoDesafio.deps.json
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\SetimoDesafio\SetimoDesafio\bin\Debug\net8.0\SetimoDesafio.runtimeconfig.json
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\SetimoDesafio\SetimoDesafio\bin\Debug\net8.0\SetimoDesafio.dll
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\SetimoDesafio\SetimoDesafio\bin\Debug\net8.0\SetimoDesafio.pdb
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\SetimoDesafio\SetimoDesafio\obj\Debug\net8.0\SetimoDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\SetimoDesafio\SetimoDesafio\obj\Debug\net8.0\SetimoDesafio.AssemblyInfoInputs.cache
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\SetimoDesafio\SetimoDesafio\obj\Debug\net8.0\SetimoDesafio.AssemblyInfo.cs
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\SetimoDesafio\SetimoDesafio\obj\Debug\net8.0\SetimoDesafio.csproj.CoreCompileInputs.cache
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\SetimoDesafio\SetimoDesafio\obj\Debug\net8.0\SetimoDesafio.dll
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\SetimoDesafio\SetimoDesafio\obj\Debug\net8.0\refint\SetimoDesafio.dll
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\SetimoDesafio\SetimoDesafio\obj\Debug\net8.0\SetimoDesafio.pdb
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\SetimoDesafio\SetimoDesafio\obj\Debug\net8.0\SetimoDesafio.genruntimeconfig.cache
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\SetimoDesafio\SetimoDesafio\obj\Debug\net8.0\ref\SetimoDesafio.dll
