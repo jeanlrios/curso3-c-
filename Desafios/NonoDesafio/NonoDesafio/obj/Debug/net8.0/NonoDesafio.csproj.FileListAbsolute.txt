@@ -1,0 +1,14 @@
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\NonoDesafio\NonoDesafio\bin\Debug\net8.0\NonoDesafio.exe
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\NonoDesafio\NonoDesafio\bin\Debug\net8.0\NonoDesafio.deps.json
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\NonoDesafio\NonoDesafio\bin\Debug\net8.0\NonoDesafio.runtimeconfig.json
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\NonoDesafio\NonoDesafio\bin\Debug\net8.0\NonoDesafio.dll
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\NonoDesafio\NonoDesafio\bin\Debug\net8.0\NonoDesafio.pdb
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\NonoDesafio\NonoDesafio\obj\Debug\net8.0\NonoDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\NonoDesafio\NonoDesafio\obj\Debug\net8.0\NonoDesafio.AssemblyInfoInputs.cache
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\NonoDesafio\NonoDesafio\obj\Debug\net8.0\NonoDesafio.AssemblyInfo.cs
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\NonoDesafio\NonoDesafio\obj\Debug\net8.0\NonoDesafio.csproj.CoreCompileInputs.cache
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\NonoDesafio\NonoDesafio\obj\Debug\net8.0\NonoDesafio.dll
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\NonoDesafio\NonoDesafio\obj\Debug\net8.0\refint\NonoDesafio.dll
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\NonoDesafio\NonoDesafio\obj\Debug\net8.0\NonoDesafio.pdb
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\NonoDesafio\NonoDesafio\obj\Debug\net8.0\NonoDesafio.genruntimeconfig.cache
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\NonoDesafio\NonoDesafio\obj\Debug\net8.0\ref\NonoDesafio.dll
