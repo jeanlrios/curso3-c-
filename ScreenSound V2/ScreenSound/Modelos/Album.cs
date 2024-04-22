@@ -19,17 +19,14 @@ internal class Album : IAvaliavel
             else return notas.Average(a => a.Nota);
         }
     }
-
     public void AdicionarMusica(Musica musica)
     {
         musicas.Add(musica);
     }
-
     public void AdicionarNota(Avaliacao nota)
     {
         notas.Add(nota);
     }
-
     public void ExibirMusicasDoAlbum()
     {
         Console.WriteLine($"Lista de músicas do álbum {Nome}:\n");

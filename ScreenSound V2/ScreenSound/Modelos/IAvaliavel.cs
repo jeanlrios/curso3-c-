@@ -1,8 +1,7 @@
-﻿namespace ScreenSound.Modelos
+﻿namespace ScreenSound.Modelos;
+
+internal interface IAvaliavel
 {
-    internal interface IAvaliavel
-    {
-        void AdicionarNota(Avaliacao nota);
-        double Media {  get; }
-    }
+    void AdicionarNota(Avaliacao nota);
+    double Media {  get; }
 }
