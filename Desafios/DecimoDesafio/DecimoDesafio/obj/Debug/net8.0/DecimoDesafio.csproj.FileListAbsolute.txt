@@ -1,0 +1,14 @@
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\DecimoDesafio\DecimoDesafio\bin\Debug\net8.0\DecimoDesafio.exe
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\DecimoDesafio\DecimoDesafio\bin\Debug\net8.0\DecimoDesafio.deps.json
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\DecimoDesafio\DecimoDesafio\bin\Debug\net8.0\DecimoDesafio.runtimeconfig.json
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\DecimoDesafio\DecimoDesafio\bin\Debug\net8.0\DecimoDesafio.dll
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\DecimoDesafio\DecimoDesafio\bin\Debug\net8.0\DecimoDesafio.pdb
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\DecimoDesafio\DecimoDesafio\obj\Debug\net8.0\DecimoDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\DecimoDesafio\DecimoDesafio\obj\Debug\net8.0\DecimoDesafio.AssemblyInfoInputs.cache
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\DecimoDesafio\DecimoDesafio\obj\Debug\net8.0\DecimoDesafio.AssemblyInfo.cs
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\DecimoDesafio\DecimoDesafio\obj\Debug\net8.0\DecimoDesafio.csproj.CoreCompileInputs.cache
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\DecimoDesafio\DecimoDesafio\obj\Debug\net8.0\DecimoDesafio.dll
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\DecimoDesafio\DecimoDesafio\obj\Debug\net8.0\refint\DecimoDesafio.dll
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\DecimoDesafio\DecimoDesafio\obj\Debug\net8.0\DecimoDesafio.pdb
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\DecimoDesafio\DecimoDesafio\obj\Debug\net8.0\DecimoDesafio.genruntimeconfig.cache
+C:\Users\Jean.rios\Documents\Cursos Alura\Curso 3 - C#\Desafios\DecimoDesafio\DecimoDesafio\obj\Debug\net8.0\ref\DecimoDesafio.dll
