@@ -1,5 +1,6 @@
 ﻿using ScreenSound.MenuExibirDetalhes;
 using ScreenSound.Modelos;
+using OpenAI_API;
 
 Banda ira = new("Ira!");
 ira.AdicionarNota(new Avaliacao(10));
